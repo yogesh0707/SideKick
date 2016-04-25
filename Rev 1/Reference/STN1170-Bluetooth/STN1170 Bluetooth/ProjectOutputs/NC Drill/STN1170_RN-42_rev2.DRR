@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: STN1170_RN-42_rev2.PcbDoc   8/2/2014  8:13:35 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : STN1170_RN-42_rev2.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        13mil (0.3302mm)         Round          68               7.96 Inch (202.14 mm)
+T2        28mil (0.7112mm)         Round          18               2.16 Inch (54.78 mm)
+---------------------------------------------------------------------------
+Totals                                            86               10.12 Inch (256.92 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
